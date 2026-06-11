@@ -20,6 +20,8 @@ The learned embeddings can be used for semantic validation of generative models,
 
    * Proposed Methodology diagram for structured triplet mining, siamese embedding learning and explanations.
 
+![Proposed Methodology](Methodology%20Diagram.png)
+
 ## Paper
 
 **A Visual-Semantic Framework for Explaining Generative Lung Nodule Transformations Via Siamese Network**
